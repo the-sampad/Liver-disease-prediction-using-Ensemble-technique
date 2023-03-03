@@ -3,4 +3,4 @@ This project repository is related to the common liver disease prediction. It is
 The complete project is represented by the files available in the repository.
 The code for the working project has also been included.
 
-## Note: Some error in the code may arise due to updates in python libraries used in this project.
+### Note: Some error in the code may arise due to updates in python libraries used in this project.
