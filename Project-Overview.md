@@ -9,3 +9,12 @@ Learning Repository. The dataset contains information about 416 liver patients a
 non-liver patients. We will preprocess the data, visualize the data, train multiple models, 
 and evaluate the models using various metrics. Finally, we will combine the models 
 using the Ensemble technique and make our final prediction.
+
+## Pre-requisites
+1. Python (version 3.6 or higher)
+2. Pandas
+3. NumPy
+4. Matplotlib
+5. Seaborn
+6. Scikit-learn
+7. XGBoost
